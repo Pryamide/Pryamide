@@ -10,7 +10,7 @@ Electrocat01/Electrocat01 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://raw.githubusercontent.com/Electrocat01/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Electrocat01/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Electrocat01/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Electrocat01/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Pryamide/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Pryamide/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Pryamide/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Pryamide/github-stats/master/generated/languages.svg#gh-light-mode-only)
